@@ -1,10 +1,8 @@
-# ⚡ Time Battle Arena - Rock Paper Scissors Game
+# ⚡ Rock Paper Scissors Game
 
 A modern, responsive Rock Paper Scissors game with timed rounds, sound effects, and stunning visual animations. Challenge yourself against the computer in this fast-paced battle arena!
 
-## 🎮 Live Demo
 
-**Play Now:** [https://tanusri-11.github.io/RockPaperScissors/](https://tanusri-11.github.io/RockPaperScissors/)
 
 ## ✨ Features
 
