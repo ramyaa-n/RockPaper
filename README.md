@@ -2,6 +2,7 @@
 
 A modern, responsive Rock Paper Scissors game with timed rounds, sound effects, and stunning visual animations. Challenge yourself against the computer in this fast-paced battle arena!
 
+🔗 **[Live Demo](https://ramyaa-n.github.io/RockPaper/)**
 
 
 ## ✨ Features
